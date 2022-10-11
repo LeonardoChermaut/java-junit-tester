@@ -1,6 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
-import org.project.util.MoneyUtil;
+import org.project.junit.MoneyUtil;
 
 public class MoneyUtilTest {
 
